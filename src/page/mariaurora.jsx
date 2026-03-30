@@ -20,44 +20,6 @@ const products = [
   },
 ];
 
-const dailySpecials = [
-  {
-    day: "Lunes",
-    title: "Cubilete de queso",
-    description: "Costra crujiente rellena de queso crema.",
-  },
-  {
-    day: "Martes",
-    title: "Orejas",
-    description: "Con chocolate y pistache.",
-  },
-  {
-    day: "Miércoles",
-    title: "Muffin de plátano",
-    description: "Frost de queso crema y nuez.",
-  },
-  {
-    day: "Jueves",
-    title: "Cubilete de queso",
-    description: "Costra crujiente rellena de queso crema.",
-  },
-  {
-    day: "Viernes",
-    title: "Roll de chocolate",
-    description: "Frost de queso crema, nuez y caramelo con sal de mar.",
-  },
-  {
-    day: "Sábado",
-    title: "Bites de canela",
-    description: "Deliciosos centros de dona, escarchados en canela y azúcar.",
-  },
-  {
-    day: "Domingo",
-    title: "Muffin de plátano",
-    description: "Frost de queso crema y nuez.",
-  },
-];
-
 export default function Mariaurora() {
   return (
     <div className="page">
